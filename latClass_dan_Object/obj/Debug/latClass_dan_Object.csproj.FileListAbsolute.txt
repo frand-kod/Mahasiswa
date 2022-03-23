@@ -1,0 +1,6 @@
+Z:\Tugas\visual sudio\latClass_dan_Object\latClass_dan_Object\bin\Debug\latClass_dan_Object.exe.config
+Z:\Tugas\visual sudio\latClass_dan_Object\latClass_dan_Object\bin\Debug\latClass_dan_Object.exe
+Z:\Tugas\visual sudio\latClass_dan_Object\latClass_dan_Object\bin\Debug\latClass_dan_Object.pdb
+Z:\Tugas\visual sudio\latClass_dan_Object\latClass_dan_Object\obj\Debug\latClass_dan_Object.exe
+Z:\Tugas\visual sudio\latClass_dan_Object\latClass_dan_Object\obj\Debug\latClass_dan_Object.pdb
+Z:\Tugas\visual sudio\latClass_dan_Object\latClass_dan_Object\obj\Debug\latClass_dan_Object.csprojResolveAssemblyReference.cache
